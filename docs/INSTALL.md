@@ -70,13 +70,13 @@ If everything is setup correctly, you should see something like that:
 ```
 
 Additionally check the status and settings on the Serial-2-Ethernet-Device. The __TX Count / RX Count__ should increase, if communication is happening.
-![Current Status of device](docs/iot-01.png)
+![Current Status of device](iot-01.png)
 
 If you encounter some stability problems, try to disable the __RESET__ checkbox.
-![Current Status of device](docs/iot-02.png)
+![Current Status of device](iot-02.png)
 
 If you want to connect more than one device, increase the number of concurrent connection.
-![Current Status of device](docs/iot-03.png)
+![Current Status of device](iot-03.png)
 
 ## FreeBSD (TrueNAS Core)
 
